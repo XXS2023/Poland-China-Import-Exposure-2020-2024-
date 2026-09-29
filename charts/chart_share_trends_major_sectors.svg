@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+<rect width="100%" height="100%" fill="white"/>
+<text x="110" y="42" font-size="28" font-family="Arial" font-weight="bold" fill="#1f2937">China share trends in major import sectors</text>
+<text x="110" y="72" font-size="15" font-family="Arial" fill="#4b5563">Top five sectors by latest China import value</text>
+<line x1="110" y1="670" x2="1020" y2="670" stroke="#9ca3af" stroke-width="1"/>
+<line x1="110" y1="110" x2="110" y2="670" stroke="#9ca3af" stroke-width="1"/>
+<line x1="110.0" y1="670" x2="110.0" y2="676" stroke="#9ca3af"/>
+<text x="110.0" y="698" text-anchor="middle" font-size="12" font-family="Arial" fill="#374151">2020</text>
+<line x1="337.5" y1="670" x2="337.5" y2="676" stroke="#9ca3af"/>
+<text x="337.5" y="698" text-anchor="middle" font-size="12" font-family="Arial" fill="#374151">2021</text>
+<line x1="565.0" y1="670" x2="565.0" y2="676" stroke="#9ca3af"/>
+<text x="565.0" y="698" text-anchor="middle" font-size="12" font-family="Arial" fill="#374151">2022</text>
+<line x1="792.5" y1="670" x2="792.5" y2="676" stroke="#9ca3af"/>
+<text x="792.5" y="698" text-anchor="middle" font-size="12" font-family="Arial" fill="#374151">2023</text>
+<line x1="1020.0" y1="670" x2="1020.0" y2="676" stroke="#9ca3af"/>
+<text x="1020.0" y="698" text-anchor="middle" font-size="12" font-family="Arial" fill="#374151">2024</text>
+<line x1="104" y1="670.0" x2="110" y2="670.0" stroke="#9ca3af"/>
+<text x="100" y="674.0" text-anchor="end" font-size="12" font-family="Arial" fill="#374151">0.0%</text>
+<line x1="104" y1="558.0" x2="110" y2="558.0" stroke="#9ca3af"/>
+<text x="100" y="562.0" text-anchor="end" font-size="12" font-family="Arial" fill="#374151">8.1%</text>
+<line x1="104" y1="446.0" x2="110" y2="446.0" stroke="#9ca3af"/>
+<text x="100" y="450.0" text-anchor="end" font-size="12" font-family="Arial" fill="#374151">16.3%</text>
+<line x1="104" y1="334.0" x2="110" y2="334.0" stroke="#9ca3af"/>
+<text x="100" y="338.0" text-anchor="end" font-size="12" font-family="Arial" fill="#374151">24.4%</text>
+<line x1="104" y1="222.0" x2="110" y2="222.0" stroke="#9ca3af"/>
+<text x="100" y="226.0" text-anchor="end" font-size="12" font-family="Arial" fill="#374151">32.5%</text>
+<line x1="104" y1="110.0" x2="110" y2="110.0" stroke="#9ca3af"/>
+<text x="100" y="114.0" text-anchor="end" font-size="12" font-family="Arial" fill="#374151">40.7%</text>
+<text x="28" y="390.0" transform="rotate(-90 28 390.0)" text-anchor="middle" font-size="14" font-family="Arial" fill="#111827">China share of Polish imports</text>
+<polyline points="110.0,622.0 337.5,610.4 565.0,608.1 792.5,609.3 1020.0,590.9" fill="none" stroke="#1f77b4" stroke-width="3"/>
+<text x="1032" y="594.9" font-size="12" font-family="Arial" fill="#1f77b4">Cars, tractors, trucks &amp; pa…</text>
+<circle cx="110.0" cy="622.0" r="4" fill="#1f77b4"/>
+<circle cx="337.5" cy="610.4" r="4" fill="#1f77b4"/>
+<circle cx="565.0" cy="608.1" r="4" fill="#1f77b4"/>
+<circle cx="792.5" cy="609.3" r="4" fill="#1f77b4"/>
+<circle cx="1020.0" cy="590.9" r="4" fill="#1f77b4"/>
+<polyline points="110.0,270.2 337.5,227.2 565.0,191.7 792.5,223.2 1020.0,227.9" fill="none" stroke="#2a9d8f" stroke-width="3"/>
+<text x="1032" y="231.9" font-size="12" font-family="Arial" fill="#2a9d8f">Electrical machinery and el…</text>
+<circle cx="110.0" cy="270.2" r="4" fill="#2a9d8f"/>
+<circle cx="337.5" cy="227.2" r="4" fill="#2a9d8f"/>
+<circle cx="565.0" cy="191.7" r="4" fill="#2a9d8f"/>
+<circle cx="792.5" cy="223.2" r="4" fill="#2a9d8f"/>
+<circle cx="1020.0" cy="227.9" r="4" fill="#2a9d8f"/>
+<polyline points="110.0,212.6 337.5,163.9 565.0,181.4 792.5,205.4 1020.0,160.9" fill="none" stroke="#e76f51" stroke-width="3"/>
+<text x="1032" y="164.9" font-size="12" font-family="Arial" fill="#e76f51">Furniture, bedding, lamps,…</text>
+<circle cx="110.0" cy="212.6" r="4" fill="#e76f51"/>
+<circle cx="337.5" cy="163.9" r="4" fill="#e76f51"/>
+<circle cx="565.0" cy="181.4" r="4" fill="#e76f51"/>
+<circle cx="792.5" cy="205.4" r="4" fill="#e76f51"/>
+<circle cx="1020.0" cy="160.9" r="4" fill="#e76f51"/>
+<polyline points="110.0,406.2 337.5,406.0 565.0,400.6 792.5,434.1 1020.0,423.7" fill="none" stroke="#f4a261" stroke-width="3"/>
+<text x="1032" y="427.7" font-size="12" font-family="Arial" fill="#f4a261">Knitted clothing accessories</text>
+<circle cx="110.0" cy="406.2" r="4" fill="#f4a261"/>
+<circle cx="337.5" cy="406.0" r="4" fill="#f4a261"/>
+<circle cx="565.0" cy="400.6" r="4" fill="#f4a261"/>
+<circle cx="792.5" cy="434.1" r="4" fill="#f4a261"/>
+<circle cx="1020.0" cy="423.7" r="4" fill="#f4a261"/>
+<polyline points="110.0,431.0 337.5,413.2 565.0,396.4 792.5,434.4 1020.0,402.1" fill="none" stroke="#6a4c93" stroke-width="3"/>
+<text x="1032" y="406.1" font-size="12" font-family="Arial" fill="#6a4c93">Machinery, mechanical appli…</text>
+<circle cx="110.0" cy="431.0" r="4" fill="#6a4c93"/>
+<circle cx="337.5" cy="413.2" r="4" fill="#6a4c93"/>
+<circle cx="565.0" cy="396.4" r="4" fill="#6a4c93"/>
+<circle cx="792.5" cy="434.4" r="4" fill="#6a4c93"/>
+<circle cx="1020.0" cy="402.1" r="4" fill="#6a4c93"/>
+</svg>
